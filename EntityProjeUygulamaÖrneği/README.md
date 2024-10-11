@@ -1,5 +1,6 @@
 # EntityProjeUygulama
-# 
+# Proje Entity Model kulanılarak Hazırlanmıştır.  
+# Kategori Ve Ürünlerin Eklenip Güncellendiği, Bazı İstatistiksel Verilerin Görüntülendiği Bir Masaüstü projedir.
 
 ![Ekran görüntüsü 2024-10-11 103708](https://github.com/user-attachments/assets/f4871f6d-8db4-4d0e-844e-4baeeeba9e4f)
 ![Ekran görüntüsü 2024-10-11 103749](https://github.com/user-attachments/assets/56453c85-9f7b-4915-807c-9fd642252c7f)
